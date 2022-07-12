@@ -1,7 +1,7 @@
 # DİSCORD SİMPLE BOT
 
 ## YÜKLENECEK MODÜLLER:
-``pip install discord``
+```pip install discord```
 
 ### İÇERİSİNDEKİLER:
 - Hello komutu.
