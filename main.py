@@ -9,7 +9,7 @@ bot = commands.Bot(command_prefix='!', intents=intents)
 
 @bot.event
 async def on_ready():
-      print(f'Aktived: {bot.user.name} & {bot.user.id}')
+      print(f'{bot.user.name} botu aktif oldu.')
       activity = discord.Game(name="Yaşa Gazi Léon Paşaa", type=2)
       await bot.change_presence(status=discord.Status.dnd, activity=activity)
 
