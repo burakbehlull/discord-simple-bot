@@ -1,8 +1,8 @@
 # DİSCORD SİMPLE BOT
 
-##YÜKLENECEK MODÜLLER:
+## YÜKLENECEK MODÜLLER:
 ``pip install discord``
 
-##İÇERİSİNDEKİLER:
+### İÇERİSİNDEKİLER:
 - Hello komutu.
 - Hoşgeldin, Güle güle komutu.
